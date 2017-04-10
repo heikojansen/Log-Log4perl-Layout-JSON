@@ -2,8 +2,7 @@
 
 Layout a log message as a JSON hash, including MDC data
 
-[![Build Status](https://secure.travis-ci.org/timbunce/Log-Log4perl-Layout-JSON.png)](http://travis-ci.org/timbunce/Log-Log4perl-Layout-JSON)
-[![Coverage Status](https://coveralls.io/repos/timbunce/Log-Log4perl-Layout-JSON/badge.png)](https://coveralls.io/r/timbunce/Log-Log4perl-Layout-JSON)
+[![Build Status](https://secure.travis-ci.org/mschout/Log-Log4perl-Layout-JSON.png)](https://travis-ci.org/mschout/Log-Log4perl-Layout-JSON)
 
 # SYNOPSIS
 
