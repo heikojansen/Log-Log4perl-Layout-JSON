@@ -1,4 +1,7 @@
 .build/
 *.swp
 *.bak
+*~
 Log-Log4perl-Layout-JSON-*
+local/
+cpanfile.snapshot

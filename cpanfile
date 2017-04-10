@@ -8,4 +8,5 @@ on test => sub {
    requires 'Test::Most';
    requires 'Test::Pod';
    requires 'Test::Compile';
+   requires 'Test::Signature';
 };
